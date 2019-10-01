@@ -1,5 +1,13 @@
 {
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "dev": "./node_modules/.bin/nodemon ./main.js",
+    "start": "pm2 start ./main.js",
+    "test": "exit"
   }
 }
