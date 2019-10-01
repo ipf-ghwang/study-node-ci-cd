@@ -1,0 +1,12 @@
+language : node_js
+node_js : 
+  - "10.15.3"
+before_install :
+  - npm install -g yarn
+branches :
+  only :
+    - master
+notifications :
+  email :
+    recipients :
+      - anny6159@naver.com
