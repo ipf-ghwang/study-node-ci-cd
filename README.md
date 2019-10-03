@@ -1,4 +1,4 @@
-# travis CI, AWS Code Deploy를 이용한 CI/CD
+# travis CI, AWS Code Deploy를 이용한 CI/CD [![Build Status](https://travis-ci.org/HearthR/study-node-ci-cd.svg?branch=master)](https://travis-ci.org/HearthR/study-node-ci-cd)
 
 ## 참고자료
 - https://jojoldu.tistory.com/265
